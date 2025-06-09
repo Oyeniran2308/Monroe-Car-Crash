@@ -6,6 +6,8 @@ Date: June 9, 2025
 ## Executive Summary
 This report analyzes car crash data for Monroe County from 2003 to 2015, with the goal of uncovering key insights into crash trends, injury severity, contributing factors, and time-based patterns. The analysis includes 53,727 recorded incidents and is aimed at informing local authorities, transportation planners, and public safety stakeholders to guide targeted interventions.
 
+![Power BI Desktop 6_9_2025 9_47_15 AM](https://github.com/user-attachments/assets/b2bba45a-4205-41ef-9ace-9fa31601c0a9)
+
 ## Key Findings
 **Crash Volume**
 - Total Crashes: 53,727
