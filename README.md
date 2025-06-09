@@ -31,29 +31,26 @@ By Time of Day:
 - Afternoon: 24,868 crashes (most frequent)
 - Night: 15,639 crashes
 - Morning: 13,222 crashes
+  
 **_Crashes peak in the afternoon, with 81.5% more crashes than the morning period. This may correspond with school dismissal and end-of-work traffic flow._**
 
 **By Hour:**
 
 - Peak Hour: 5:00 PM (4,011 crashes)
-- Lowest: 3:00 AM (222 crashes)
+- Lowest: 1:47 PM (222 crashes)
 
-🔹 Trends Over Time
-Lowest Year: 2011 (3,914 crashes)
+**Trends Over Time**
+- Lowest Year: 2011 (3,914 crashes)
+- Highest Year: 2003 (4,409 crashes)
 
-Highest Year: 2008 (4,405 crashes)
+**_Crash volume declined from 2003–2006, followed by mild fluctuation in later years._**
 
-Crash volume declined from 2003–2011, followed by mild fluctuation in later years. Overall variation remained within a moderate range.
+**Contributing Factors**
+**Top Cause:** Failure to Yield Right of Way – 12,266 crashes
+**Other significant causes:**
+- Following too Closely
+- Disregarding Traffic Signal
+- Driver Inattention
 
-🔹 Contributing Factors
-Top Cause: Failure to Yield Right of Way – 12,266 crashes
+**_Failure to Yield" was responsible for over 22.8% of all crashes._**
 
-Other significant causes:
-
-Following too Closely
-
-Disregarding Traffic Signal
-
-Driver Inattention
-
-"Failure to Yield" was responsible for over 22.8% of all crashes.
