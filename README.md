@@ -54,3 +54,20 @@ By Time of Day:
 
 **_Failure to Yield" was responsible for over 22.8% of all crashes._**
 
+## Recommendation
+- Increase patrol or automated enforcement in the afternoon (12 PM – 6 PM) especially during workdays.
+- Prioritize locations with frequent 2-car collisions and intersections with high "Failure to Yield" incidents.
+- Add or improve signage, turn signals, and roundabouts at known high-collision points.
+- Evaluate driver behavior at intersections through video monitoring or sensor analysis.
+- Focus on Failure to Yield, distracted driving, and following too closely.
+- Run campaigns particularly in afternoon hours and among weekday commuters.
+- Focus on Failure to Yield, distracted driving, and following too closely.
+- Run campaigns particularly in afternoon hours and among weekday commuters.
+- Although pedestrian and bike crashes are lower in number, focus on safe crossings, bike lanes, and street lighting.
+
+## Conclusion
+
+The Monroe County car crash data from 2003 to 2015 reveals clear temporal and behavioral patterns behind road incidents. Most crashes are non-fatal and occur in the afternoon, with two-car collisions being the most prevalent. The leading cause, failure to yield, points to the need for better intersection management and public driver education.
+
+Implementing focused safety strategies during high-risk times and locations can significantly reduce crash occurrences. By applying a combination of data-driven policy, targeted enforcement, and public outreach, Monroe County can enhance road safety and reduce accident-related costs.
+
